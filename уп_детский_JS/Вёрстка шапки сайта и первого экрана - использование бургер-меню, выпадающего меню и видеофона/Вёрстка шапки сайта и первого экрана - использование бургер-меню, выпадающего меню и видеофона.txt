@@ -1,0 +1,14 @@
+Повторите макеты из Видеоинструкция-1,
+Видеоинструкция-2  и Видеоинструкция-3
+
+Сверстайте все макеты из задания по ссылке
+
+Полезные ссылки:
+
+https://fonts.google.com/icons
+
+https://simpleicons.org/
+
+https://cdnjs.com/libraries/font-awesome
+
+https://fontawesome.com/icons
